@@ -2,7 +2,7 @@
 
 $de_csv = fopen('de_DE.csv', 'r');
 $phrases_csv = fopen('phrases.csv', 'r');
-$de_new_csv = fopen('de_DE_new.csv', 'w');
+$de_new_csv = fopen('de_DE_informal.csv', 'w');
 
 $old = array();
 

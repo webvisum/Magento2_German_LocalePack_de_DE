@@ -1,11 +1,4 @@
 <?php
-/**
- * Copyright © 2015 Magento. All rights reserved.
- * See COPYING.txt for license details.
- */
+use \Magento\Framework\Component\ComponentRegistrar;
 
-\Magento\Framework\Component\ComponentRegistrar::register(
-    \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'splendid_de_de',
-    __DIR__
-);
+ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'informal_de_de', __DIR__);

@@ -1,6 +1,6 @@
 {
-    "name": "splendidinternet/mage2-locale-de-de",
-    "description": "German (Germany) language",
+    "name": "webvisum/mage2-informal-de-de",
+    "description": "German (Germany) informal language package",
     "license": [
         "OSL-3.0"
     ],
