@@ -7603,14 +7603,14 @@ Sign a billing agreement to streamline further purchases  with PayPal.,"Zeichne 
 Sign a billing agreement to streamline further purchases with PayPal.,"Unterzeichne eine Rechnungsvereinbarung, um weitere Einkäufe mit PayPal zu optimieren.",module,Magento_Theme
 Sign in,Anmelden,module,Magento_Theme
 Sign In,Anmelden,module,Magento_Theme
-Sign in to edit wish lists.,"Melde dichan, um den Wunschzettel zu bearbeiten.",module,Magento_Theme
+Sign in to edit wish lists.,"Melde dich an, um den Wunschzettel zu bearbeiten.",module,Magento_Theme
 Sign Out,Abmelden,module,Magento_Theme
 Sign Static Files,Statische Dateien registrieren,module,Magento_Theme
 Sign Up At,Anmelden bei,module,Magento_Theme
 Sign Up for Newsletter,Anmeldung zum Newsletter,module,Magento_Theme
 Sign Up for Our Newsletter:,Anmeldung zum Newsletter:,module,Magento_Theme
 Sign up for price alert,Für Preisalarm anmelden,module,Magento_Theme
-Sign up to be notified when this product is back in stock.,"Melde dichan, um benachrichtigt zu werden, wenn das Produkt wieder verfügbar ist.",module,Magento_Theme
+Sign up to be notified when this product is back in stock.,"Melde dich an, um benachrichtigt zu werden, wenn das Produkt wieder verfügbar ist.",module,Magento_Theme
 Sign-in Information,Anmeldeinformationen,module,Magento_Theme
 Signature Confirmation,Signatur-Bestätigung,module,Magento_Theme
 Signature method %1 is not supported,Signaturmethode %1 wird nicht unterstützt,module,Magento_Theme
@@ -9905,7 +9905,7 @@ Welcome to %store_name,Willkommen bei %store_name,theme,frontend/Magento/luma,mo
 Welcome to %store_name.,Willkommen bei %store_name.,module,Magento_Theme
 "Welcome, %1!","Willkommen, %1!",module,Magento_Theme
 "Welcome, %name","Willkommen, %name",module,Magento_SendFriend
-"Welcome, please sign in","Willkommen, bitte melde dichan.",module,Magento_Theme
+"Welcome, please sign in","Willkommen, bitte melde dich an.",module,Magento_Theme
 What are you looking for?,Wonach suchst Du?,module,Magento_Theme
 What are you looking for?,Wonach suchst Du?,module,Magento_Bundle
 What is PayPal?,Was ist PayPal?,module,Magento_Theme
