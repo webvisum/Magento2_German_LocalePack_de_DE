@@ -1310,8 +1310,8 @@ Area is already set,Bereich ist bereits gesetzt,module,Magento_Theme
 Argument type duplication in class %1 in %2%3%4,Doppelter Argumenttyp in Klasse %1 in %2%3%4,module,Magento_Theme
 arketplace,Marketplace,module,Magento_Theme
 Array root keys must not be numeric.,Array-Rootkey darf nicht numerisch sein,module,Magento_Theme
-As Low as,So niedrig wie,module,Magento_Theme
-As low as,So niedrig wie,module,Magento_Theme
+As Low as,Ab,module,Magento_Theme
+As low as,Ab,module,Magento_Theme
 ASCII,ASCII,module,Magento_Theme
 Ask Customer,Kunden fragen,module,Magento_Theme
 Assign,Zuweisen,module,Magento_Ui
